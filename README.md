@@ -1,2 +1,5 @@
 # filesmanager-opencart-2.3.x
-This is a plugin for legacy opencart 2.3.x that lists all files and allows to overwrite them
+
+This plugin is designed for legacy OpenCart 2.3.x and lists of all files.
+
+Also allows to overwrite each file.
